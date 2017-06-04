@@ -1,0 +1,28 @@
+h1 {
+
+	font-family: Times,serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	color: #0628C4;
+}
+p {
+
+	font-size: 130%;
+}
+.game{
+text-align: center;
+	float: left;
+	font-size: 140%;
+}
+div.overall {
+background-color: #B6FAFA;
+}
+li {
+	font-size: 140%
+}
+.noteboxesclass
+{
+
+	font-size: 140%;
+}
